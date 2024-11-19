@@ -1,1 +1,1 @@
-# SQL-mini-project-on-ICC-test-batting-figures-and-Richards-supply-chain-for-food-products
+# SQL-mini-project-on-ICC-test-batting-figures-and-supply-chain-for-food-products
